@@ -3,7 +3,7 @@
 # Write the code that:
 # 1. Calculates and prints the first 50 terms of the fibonacci sequence.
 # 2. Print each term and number as follows:
-#      term: 0 / number: 0
+#      term: 0 / number: 0 
 #      term: 1 / number: 1
 #      term: 2 / number: 1
 #      term: 3 / number: 2
